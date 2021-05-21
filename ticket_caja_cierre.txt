@@ -1,0 +1,51 @@
+                                        
+   =========SAMU=========               
+          CODIGO:14                     
+   INICIO:     2021-04-14 17:13         
+   FIN:        2021-04-14 22:17         
+   USUARIO:samu                         
+   #=============================#      
+   CAJA ABRIR:           800,000        
+   TOTAL VENTA:          1,180,000      
+   ------Detalle Venta-----------       
+   COMIDA:               1,040,000      
+   BEBIDA:               15,000         
+   DELIVERY:             125,000        
+   #=============================#      
+   TOTAL GASTO:          0              
+   TOTAL VALE:           0              
+   TOTAL COMPRA:         0              
+   #=============================#      
+   SIS. TOTAL:           1,980,000      
+   SIS. SIN DELIVERY:    1,855,000      
+   CIERRE:               1,980,000      
+   DIFERENCIA:           (125,000)      
+   ------Venta Por Categoria-------     
+     16 X   PIZZA-TATA                  
+     9 X    PIZZA-HORNO                 
+     8 X    HAMBURGUESA                 
+     3 X    GASEOSA                     
+     2 X    PAPAS                       
+                                        
+   ------TOP 15 Mas Vendido-----        
+     7 X    ENTERO-PANCETA              
+     5 X    UNI-CLASICA                 
+     3 X    MITAD-PANCETA               
+     3 X    MITAD-POLLO                 
+     3 X    LATA-COCA                   
+     2 X    MITAD-MARGARITA             
+     2 X    ENTERO-MARGARITA            
+     2 X    INDIVIDUAL-COMBO            
+     2 X    ENTERO-RUCULA               
+     2 X    ENTERO-SHITAKE              
+     2 X    UNI-CHEESE                  
+     1 X    ENTERO-CAPONATA             
+     1 X    UNI-BACON                   
+     1 X    MITAD-CALABRESA             
+     1 X    MITAD-CHEESE                
+                                        
+   ------ANULADOS-----                  
+     idv:244 monto:      80,000         
+                                        
+                                        
+                                        

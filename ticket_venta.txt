@@ -1,0 +1,28 @@
+                                        
+   =========SAMU=========               
+   VENTA:263   FEC:2021-04-17 20:09     
+   USUARIO:DIGNO ALFREDO                
+   CLI: 1-OCACIONAL                     
+   TEL: 0000                            
+   DIR: CENTRAL                         
+   #=============================#      
+   ENTERO-MARGARITA                     
+     2 X    40,000 =     80,000         
+                                        
+   #=============================#      
+                                        
+   ENTREGA: ##>>COMER_ACA<<##           
+   OBS: Ninguna                         
+   VENTA:                80,000         
+   DELIVERY:             0              
+   TOTAL :               80,000         
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
